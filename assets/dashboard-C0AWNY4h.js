@@ -1,0 +1,1 @@
+var e=`/perf-now-slides/screens/dashboard.png`;export{e as t};
